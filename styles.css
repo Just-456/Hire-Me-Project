@@ -1,0 +1,51 @@
+h1 {
+    font-family: 'Ewert', cursive;
+}
+
+
+a {
+    font-family: 'Ewert', cursive;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Ewert', cursive;
+    font-size: 30px;
+    color: #FFFFFF;
+
+}
+
+.future {
+    color: #000000;
+}
+
+.favorite-things {
+    border :30px dashed #FFFFFF;
+}
+
+ul {
+    font-family: 'Ewert', cursive;
+    font-size: 30px;
+}
+
+
+h1 {
+    color: #FFFFFF;
+}
+
+
+
+img {
+    width: 595px;
+}
+
+
+
+a {
+    color: #000000;
+}
+
+
+body {
+    background-color: #AF71C8;
+}
